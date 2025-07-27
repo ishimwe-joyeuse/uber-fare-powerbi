@@ -43,7 +43,7 @@ Visuals were created using **Power BI Desktop** and exported as screenshots in t
 | Visual | Description |
 |--------|-------------|
 | **Bar Chart** | Average fare by hour |
-| **Column Chart** | Ride count by day of week |
+
 | **Line Chart** | Fare trends over time |
 | **Table** | Detailed ride information |
 | **Map** | Pickup coordinates visualization |
