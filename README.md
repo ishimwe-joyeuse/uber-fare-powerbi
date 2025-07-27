@@ -82,12 +82,12 @@ Visuals were created using **Power BI Desktop** and exported as screenshots in t
 
 ## 📎 Project Files
 
-- `uber.csv` – Raw dataset https://drive.google.com/file/d/1z5glprzTtzwZ6T5GYHAjSjnMINOooqcF/view?usp=drive_link
-- `uber_analysis.py` – Python cleaning + EDA + feature engineering https://drive.google.com/file/d/1z5glprzTtzwZ6T5GYHAjSjnMINOooqcF/view?usp=drive_link
-- `uber_cleaned_for_powerbi.csv` – Cleaned dataset for Power BI https://drive.google.com/file/d/1z5glprzTtzwZ6T5GYHAjSjnMINOooqcF/view?usp=drive_link
-- `uber_dashboard.pbix` – Final Power BI Dashboard https://drive.google.com/file/d/1z5glprzTtzwZ6T5GYHAjSjnMINOooqcF/view?usp=drive_link
+- `uber.csv` – Raw dataset (https://drive.google.com/file/d/1yCwpngPKNYfMMi-psWvDj1EmSkot7Z46/view?usp=sharing)
+- `uber_analysis.py` – Python cleaning + EDA + feature engineering (https://drive.google.com/file/d/1oA7Av1eXA74gzg3jSKL8mb06qHWPAEdP/view?usp=sharing)
+- `uber_cleaned_for_powerbi.csv` (https://drive.google.com/file/d/1_ZiJEnDD5xk4mjBGyK2vrLWCq8v3SqbB/view?usp=sharing)
+- `uber_dashboard.pbix` – Final Power BI Dashboard (https://drive.google.com/file/d/13phcHJ4f9ARQsXywiVAhzMpScHCEfGkK/view?usp=sharing)
 - `screenshots/` – Folder of all visuals
-- `report.md` – This report
+  
 
 ---
 
@@ -95,8 +95,8 @@ Visuals were created using **Power BI Desktop** and exported as screenshots in t
 
 All project deliverables have been uploaded to this public GitHub repository and submitted by the deadline.
 
-📂 [**GitHub Repository**](https://github.com/your-username/uber-fare-powerbi) *(replace this link with your actual repository URL)*
+📂 [**GitHub Repository**](https://github.com/ishimwe-joyeuse/uber-fare-powerbi) 
 
 📧 Submitted to: [eric.maniraguha@auca.ac.rw](mailto:eric.maniraguha@auca.ac.rw)
 
----
+
