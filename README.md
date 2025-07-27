@@ -2,7 +2,8 @@
 
 Course: INSY 8413 – Introduction to Big Data Analytics  
 Instructor: Eric Maniraguha  
-Student Name:Ishimwe Joyeuse|[ishimwejoyeuse177@gmail.com]
+Student Name:Ishimwe Joyeuse [ishimwejoyeuse177@gmail.com]
+
 Assignment Type: Data Analysis Project using Power BI  
 Submission Date: Sunday, 27 July 2025  
 Group: E
